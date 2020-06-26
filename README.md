@@ -1,4 +1,6 @@
-#Conventional Machine Learning & Deep Learning Project
+# Conventional Machine Learning & Deep Learning Project
+
+&nbsp;
 
 The analysis of the Twitter dataset for emotion intensity classification task using various machine learning algorithms. The analysis has been done on a cut down version of the original dataset to fasten the process. Initially, Conventional Machine Learning techniques such as Logistic Regression, Random Forest, Naive Bayes, SVM, Neural Networks had been used and ultimately, we picked the one that produced the best accuracy.
 
